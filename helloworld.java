@@ -5,9 +5,5 @@ public class HelloWorld {
        
         String nama ="Fuad Hiadayat Asy-Syaibani";
         int umur = 19, tahun =2020;   
-}
-	
-}
-   
-  }
-}
+	}	
+     }
